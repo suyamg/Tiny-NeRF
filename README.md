@@ -3,7 +3,7 @@
 > A minimal PyTorch implementation of NeRF, based on the Tiny NeRF tutorial.
 
 
-![TinyNeRF Result](result/nerf_training.gif)
+![TinyNeRF Result]([result/nerf_training.gif](https://github.com/suyamg/Tiny-NeRF/blob/main/result/final_result(1)/nerf_training.gif))
 
 ---
 
